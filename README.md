@@ -108,5 +108,5 @@ Navigate to the**Home** tab in the toolbar  and then select **Transform Data** t
 •  This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-•  Contributions .
-•  Educational resources and datasets from renowned institutions and projects in the field.
+•  Contributions with Data cleaning using Power BI.
+•  Load datasets from different ressources and work on real projects in the field fo data analysis.
