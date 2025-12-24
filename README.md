@@ -1,18 +1,24 @@
 # Data-Cleaning-Operations-using-Power-BI Project
 
-Most Commun Data Cleaning Operations using Power BI Project
+#### Most Commun Data Cleaning Operations using Power BI Project
 
 <img width="1684" height="729" alt="image" src="https://github.com/user-attachments/assets/d7902a0e-f987-4844-96ab-9bdda6a8aaa3" />
 
 
-In this project we will cover the following specific topics:
+#### In this project we will cover the following specific topics:
 
-•  Removing duplicates
-•  Removing missing data
-•  Splitting columns
-•  Merging columns
-•  Replacing outliers
-•  Creating calculated columns versus measure
+
+#####  •  Removing duplicates
+
+#####  •  Removing missing data
+
+#####  •  Splitting columns
+
+#####  •  Merging columns
+
+#####  •  Replacing outliers
+
+#####  •  Creating calculated columns versus measure
 
 ## Load Dataset
 
