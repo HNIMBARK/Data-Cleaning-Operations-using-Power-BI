@@ -1,7 +1,9 @@
-# Data-Cleaning-Operations-using-Power-BI
-Most Commun Data Cleaning Operations using Power BI
+# Data-Cleaning-Operations-using-Power-BI Project
+Most Commun Data Cleaning Operations using Power BI Project
+<img width="1684" height="729" alt="image" src="https://github.com/user-attachments/assets/d7902a0e-f987-4844-96ab-9bdda6a8aaa3" />
 
 In this project we will cover the following specific topics:
+
 •  Removing duplicates
 •  Removing missing data
 •  Splitting columns
@@ -14,6 +16,7 @@ Connect to this CSV using Power BI Desktop by selecting Get data in the toolbar 
 select Transform data
 ## Remove Duplicates
 Navigate to the Home tab in the toolbar  and then select Transform Data to access the Power Query Editor.
+
 2. Now select the column in which the main identifier and duplicate is located. In this case, we want to select Product_Name.
 3. With that column selected, you can now select Remove Rows within the toolbar and select  Remove Duplicates
 licates Remove Duplicates
@@ -38,4 +41,9 @@ Measures can be identified with the calculator logo and calculated columns can b
 ## Calculation group
 Calculation groups were introduced in Power BI to tackle the challenges associated with managing a 
 large number of repetitive measures and to simplify the logic applied in diverse calculations
+## License
+•  This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Acknowledgments
+•  Contributions .
+•  Educational resources and datasets from renowned institutions and projects in the field.
